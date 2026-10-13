@@ -145,16 +145,16 @@ footer p {
   color: var(--Gold, #b99049);
 }
 
-.characters .Grif > img:hover{
+.characters .Gryffindor > img:hover{
   border: 8px solid var(--Red, #e71313);
 }
-.characters .Ser > img:hover{
+.characters .Slytherin > img:hover{
   border: 8px solid var(--green, #027c0a);
 }
-.characters .Serd > img:hover{
+.characters .Ravenclaw > img:hover{
   border: 8px solid var(--blue, #178ccb);
 }
-.characters .Pout > img:hover{
+.characters .Hufflepuff > img:hover{
   border: 8px solid var(--yellow, #8abb02);
 }
 
