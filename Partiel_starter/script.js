@@ -35,7 +35,8 @@ function createCharacter(data){
 
     article.style.cursor = "pointer";
     article.addEventListener("click", () => {
-    window.location.href = `character.html?id=${encodeURIComponent(data.id)}`;
+    window.location.href = `details.html?id=${encodeURIComponent(data.id)}`;
+});
     return article;
 
     }

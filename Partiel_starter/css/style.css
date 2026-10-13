@@ -231,3 +231,8 @@ header ul {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+img.dead {
+  filter: grayscale(100%);
+}
